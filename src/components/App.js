@@ -31,6 +31,11 @@ function App() {
           src="https://pbs.twimg.com/profile_images/3022993403/fdae67d800527328cee7a222f048dbbd.jpeg"
         />
       </Container>
+      <Container header="Welcome to My Website">
+        <div>This section showcases the latest updates.</div>
+        <div>Explore the content and stay tuned for more!</div>
+      </Container>
+
     </div>
   );
 }
